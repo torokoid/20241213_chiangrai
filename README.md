@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20241213_chiangrai/IMG_1661.HEIC) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241213_chiangrai/20241213.png) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -133,7 +133,72 @@ p.note { display: none; }
 
 <h2><span class="yellow">この市場、常設の場所ではなく、市内中心部の道路を封鎖して大々的に毎週開催されるとのことです</span></h2>
 
-
+<a href="IMG_1783.HEIC" target="_blank"><img src="IMG_1783.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1784.HEIC" target="_blank"><img src="IMG_1784.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1785.HEIC" target="_blank"><img src="IMG_1785.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1786.HEIC" target="_blank"><img src="IMG_1786.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1787.HEIC" target="_blank"><img src="IMG_1787.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1788.HEIC" target="_blank"><img src="IMG_1788.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1789.HEIC" target="_blank"><img src="IMG_1789.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1790.HEIC" target="_blank"><img src="IMG_1790.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1791.HEIC" target="_blank"><img src="IMG_1791.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1792.HEIC" target="_blank"><img src="IMG_1792.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1793.HEIC" target="_blank"><img src="IMG_1793.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1794.HEIC" target="_blank"><img src="IMG_1794.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1795.HEIC" target="_blank"><img src="IMG_1795.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1796.HEIC" target="_blank"><img src="IMG_1796.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1797.HEIC" target="_blank"><img src="IMG_1797.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1798.HEIC" target="_blank"><img src="IMG_1798.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1799.HEIC" target="_blank"><img src="IMG_1799.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1800.HEIC" target="_blank"><img src="IMG_1800.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1801.HEIC" target="_blank"><img src="IMG_1801.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1802.HEIC" target="_blank"><img src="IMG_1802.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1803.HEIC" target="_blank"><img src="IMG_1803.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1804.HEIC" target="_blank"><img src="IMG_1804.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1805.HEIC" target="_blank"><img src="IMG_1805.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1806.HEIC" target="_blank"><img src="IMG_1806.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1807.HEIC" target="_blank"><img src="IMG_1807.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1808.HEIC" target="_blank"><img src="IMG_1808.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1809.HEIC" target="_blank"><img src="IMG_1809.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1810.HEIC" target="_blank"><img src="IMG_1810.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1811.HEIC" target="_blank"><img src="IMG_1811.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1812.HEIC" target="_blank"><img src="IMG_1812.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1813.HEIC" target="_blank"><img src="IMG_1813.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1814.HEIC" target="_blank"><img src="IMG_1814.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1815.HEIC" target="_blank"><img src="IMG_1815.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1816.HEIC" target="_blank"><img src="IMG_1816.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1817.HEIC" target="_blank"><img src="IMG_1817.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1818.HEIC" target="_blank"><img src="IMG_1818.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1819.HEIC" target="_blank"><img src="IMG_1819.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1820.HEIC" target="_blank"><img src="IMG_1820.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1821.HEIC" target="_blank"><img src="IMG_1821.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1822.HEIC" target="_blank"><img src="IMG_1822.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1823.HEIC" target="_blank"><img src="IMG_1823.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1824.HEIC" target="_blank"><img src="IMG_1824.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1825.HEIC" target="_blank"><img src="IMG_1825.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1826.HEIC" target="_blank"><img src="IMG_1826.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1827.HEIC" target="_blank"><img src="IMG_1827.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1828.HEIC" target="_blank"><img src="IMG_1828.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1829.HEIC" target="_blank"><img src="IMG_1829.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1830.HEIC" target="_blank"><img src="IMG_1830.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1831.HEIC" target="_blank"><img src="IMG_1831.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1832.HEIC" target="_blank"><img src="IMG_1832.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1833.HEIC" target="_blank"><img src="IMG_1833.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1834.HEIC" target="_blank"><img src="IMG_1834.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1835.HEIC" target="_blank"><img src="IMG_1835.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1836.HEIC" target="_blank"><img src="IMG_1836.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1837.HEIC" target="_blank"><img src="IMG_1837.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1838.HEIC" target="_blank"><img src="IMG_1838.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1839.HEIC" target="_blank"><img src="IMG_1839.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1840.HEIC" target="_blank"><img src="IMG_1840.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1841.HEIC" target="_blank"><img src="IMG_1841.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1842.HEIC" target="_blank"><img src="IMG_1842.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1843.HEIC" target="_blank"><img src="IMG_1843.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1844.HEIC" target="_blank"><img src="IMG_1844.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1845.HEIC" target="_blank"><img src="IMG_1845.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1846.HEIC" target="_blank"><img src="IMG_1846.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1847.HEIC" target="_blank"><img src="IMG_1847.HEIC" alt="サンプル画像" width="900" /></a>
+<a href="IMG_1848.HEIC" target="_blank"><img src="IMG_1848.HEIC" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">食べ物以外にも金物屋さん、ちっちゃい女の子用の下着、子供用サンダルなどが売られていました〜</span></h2>
 
