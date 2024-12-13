@@ -127,9 +127,9 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">場所はメーチャンから北東に移動した辺り<br>画像のクリックでGoogleMapsに飛びます</span></h2>
+<h2><span class="yellow">場所はメーチャン中心部の道路を閉鎖して開催されます<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
-<a href="https://www.google.com/maps/place/ตลาดสดเทศบาลจันจว้า/@20.2245961,99.9467936,17.81z/data=!4m6!3m5!1s0x30d65759defafdcd:0xe5ea0075d0313a7e!8m2!3d20.2246319!4d99.9481416!16s%2Fg%2F11twc_trh_!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241210_001.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/@20.1462269,99.8529017,16.95z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241213_002.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この市場、常設の場所ではなく、市内中心部の道路を封鎖して大々的に毎週開催されるとのことです</span></h2>
 
