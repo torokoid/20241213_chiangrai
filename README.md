@@ -200,10 +200,10 @@ p.note { display: none; }
 
 <a href="IMG_1848.HEIC" target="_blank"><img src="IMG_1848.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">食べ物以外にも金物屋さん、ちっちゃい女の子用の下着、子供用サンダルなどが売られていました〜</span></h2>
+<h2><span class="yellow">***〜</span></h2>
 
 
-<h2><span class="yellow">障害者の盲人が歌で寄付を募ってました<br>お金入れてる人結構いました<br>画像のクリックで動画再生します</span></h2>
+<h2><span class="yellow">***<br>***<br>***</span></h2>
 <a href="https://youtube.com/shorts/ke2JbDRtrso" target="_blank"><img src="20241210_002.png" alt="サンプル画像" width="900" /></a>
 
 
