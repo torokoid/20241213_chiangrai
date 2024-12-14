@@ -163,6 +163,8 @@ p.note { display: none; }
 <h2><span class="yellow">コンイープン(日本人)と伝えると、Japanese, chicken! とアピールありました</span></h2>
 <a href="IMG_1804.HEIC" target="_blank"><img src="IMG_1804.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1805.HEIC" target="_blank"><img src="IMG_1805.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ハチミツは採れたて</span></h2>
 <a href="IMG_1806.HEIC" target="_blank"><img src="IMG_1806.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1807.HEIC" target="_blank"><img src="IMG_1807.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1808.HEIC" target="_blank"><img src="IMG_1808.HEIC" alt="サンプル画像" width="900" /></a>
@@ -173,9 +175,11 @@ p.note { display: none; }
 <a href="IMG_1811.HEIC" target="_blank"><img src="IMG_1811.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1812.HEIC" target="_blank"><img src="IMG_1812.HEIC" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">これも居ました</span></h2>
+<h2><span class="yellow">これも売られてますね〜</span></h2>
 <a href="IMG_1813.HEIC" target="_blank"><img src="IMG_1813.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1814.HEIC" target="_blank"><img src="IMG_1814.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">スマホケースもあります</span></h2>
 <a href="IMG_1815.HEIC" target="_blank"><img src="IMG_1815.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1816.HEIC" target="_blank"><img src="IMG_1816.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1817.HEIC" target="_blank"><img src="IMG_1817.HEIC" alt="サンプル画像" width="900" /></a>
