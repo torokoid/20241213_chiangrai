@@ -159,6 +159,8 @@ p.note { display: none; }
 <a href="IMG_1801.HEIC" target="_blank"><img src="IMG_1801.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1802.HEIC" target="_blank"><img src="IMG_1802.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1803.HEIC" target="_blank"><img src="IMG_1803.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">コンイープン(日本人)と伝えると、Japanese, chicken! とアピールありました</span></h2>
 <a href="IMG_1804.HEIC" target="_blank"><img src="IMG_1804.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1805.HEIC" target="_blank"><img src="IMG_1805.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1806.HEIC" target="_blank"><img src="IMG_1806.HEIC" alt="サンプル画像" width="900" /></a>
@@ -186,6 +188,8 @@ p.note { display: none; }
 
 <h2><span class="yellow">こっちは４本線</span></h2>
 <a href="IMG_1822.HEIC" target="_blank"><img src="IMG_1822.HEIC" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">カメラ向けたら笑顔作ってくれたお兄さん</span></h2>
 <a href="IMG_1823.HEIC" target="_blank"><img src="IMG_1823.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1824.HEIC" target="_blank"><img src="IMG_1824.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1825.HEIC" target="_blank"><img src="IMG_1825.HEIC" alt="サンプル画像" width="900" /></a>
