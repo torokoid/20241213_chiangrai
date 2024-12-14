@@ -282,7 +282,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2024/12/13 S,Hada @ChiangRai</p>
+<p>Copyright 2024/12/14 S,Hada @ChiangRai</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
