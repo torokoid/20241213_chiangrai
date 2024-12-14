@@ -233,12 +233,12 @@ p.note { display: none; }
 
 <h2><span class="yellow">以下動画集</span></h2>
 
-<h2><span class="yellow"><a href="https://youtube.com/shorts/_-yelxQ7z5o?feature=share" target="_blank">生きた食材 ← リンク</a></span></h2>
+<a href="https://youtube.com/shorts/_-yelxQ7z5o?feature=share" target="_blank"><img src="20241213_004.png" alt="サンプル画像" width="560" /></a>
 
 <!--<h2><span class="yellow">おじさんの縦笛演奏</span></h2>-->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WxcwGLxOcpc?si=sgsOJP3YB0plOehj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<h2><span class="yellow"><a href="https://youtube.com/shorts/U3Myo4DTs-g?feature=share" target="_blank">子どもたちの演奏 ← リンク</a></span></h2>
+<a href="https://youtube.com/shorts/U3Myo4DTs-g?feature=share" target="_blank"><img src="20241213_005.png" alt="サンプル画像" width="560" /></a>
 
 <!--<h2><span class="yellow">背景画像にもなっている、着ぐるみの動き</span></h2>-->
 
