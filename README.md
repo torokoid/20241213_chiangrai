@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~S,Hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/13 、チェンライ郊外のメーチャン中心部で金曜に開催される市場に行ってきました !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/12/13 、チェンライ郊外のメーチャン中心部で毎週金曜に開催される市場に行ってきました !!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
@@ -131,7 +131,7 @@ p.note { display: none; }
 
 <a href="https://www.google.com/maps/@20.143699,99.8537608,15z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241213_003.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">この市場、常設の場所ではなく、市内中心部の道路を封鎖して大々的に毎週開催されるとのことです</span></h2>
+<h2><span class="yellow">この市場、常設の場所ではなく、市内中心部の道路を封鎖して大々的に毎週開催されます</span></h2>
 
 <a href="IMG_1783.HEIC" target="_blank"><img src="IMG_1783.HEIC" alt="サンプル画像" width="900" /></a>
 <a href="IMG_1784.HEIC" target="_blank"><img src="IMG_1784.HEIC" alt="サンプル画像" width="900" /></a>
@@ -203,11 +203,14 @@ p.note { display: none; }
 <h2><span class="yellow">***〜</span></h2>
 
 
-<h2><span class="yellow">***<br>***<br>***</span></h2>
-<a href="https://youtube.com/shorts/ke2JbDRtrso" target="_blank"><img src="20241210_002.png" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">以下動画集</span></h2>
 
-
-
+<h2><a href="https://youtube.com/shorts/_-yelxQ7z5o?feature=share" target="_blank">生きた食材</a></h2>
+<h2><span class="yellow">おじさんの縦笛演奏</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WxcwGLxOcpc?si=sgsOJP3YB0plOehj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<h2><a href="https://youtube.com/shorts/U3Myo4DTs-g?feature=share" target="_blank">子どもたちの演奏</a></h2>
+<h2><span class="yellow">背景画像にもなっている、着ぐるみの動き</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jzpTmiBfHVU?si=HAjtmOkl3QijSOqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
 
 <h2><span class="yellow">
