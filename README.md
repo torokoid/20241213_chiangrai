@@ -129,7 +129,7 @@ p.note { display: none; }
 
 <h2><span class="yellow">場所はメーチャン中心部の道路を閉鎖して開催されます<br>画像のクリックでGoogleMapsに飛びます</span></h2>
 
-<a href="https://www.google.com/maps/@20.1426111,99.8535033,3a,75y,279.92h,99.46t/data=!3m7!1e1!3m5!1skkTAGPfIjycAUy9HARuZwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.459668819444147%26panoid%3DkkTAGPfIjycAUy9HARuZwQ%26yaw%3D279.924353067528!7i16384!8i8192!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241213_003.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/@20.143699,99.8537608,15z/data=!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D"_blank"><img src="20241213_003.png" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この市場、常設の場所ではなく、市内中心部の道路を封鎖して大々的に毎週開催されるとのことです</span></h2>
 
